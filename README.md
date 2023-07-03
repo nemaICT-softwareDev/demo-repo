@@ -8,4 +8,8 @@ Just a simple repo for testing purpose on usage of git commands
 
 ## Local development
 
+
 Open index.html in local browser
+
+Open index.html in local browser
+
